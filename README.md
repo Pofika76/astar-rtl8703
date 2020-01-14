@@ -1,0 +1,2 @@
+# astar-rtl8703
+AKAI TAB-9800Q
